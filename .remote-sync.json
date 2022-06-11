@@ -1,0 +1,19 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "134.122.16.167",
+  "port": "22",
+  "target": "/root/HelloWorld",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "root",
+  "watch": [],
+  "transport": "ftp",
+  "password": "claveD7x"
+}
