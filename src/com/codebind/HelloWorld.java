@@ -6,7 +6,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("*****Hello World & Welcome to Jenkins Training*****");
 		System.out.println("Being pulled from a Jenkins instance to be built and run");
-		System.out.println("Added a github-webhook for Jenkins");
+		System.out.println("Added a github-webhook for Jenkins.");
 	}
 	/***
 	 * Run Project from outside of Jenkins
